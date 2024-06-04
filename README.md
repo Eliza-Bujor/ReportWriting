@@ -19,7 +19,12 @@ A fellow security analyst began investigating a phishing email but has had to st
 
 <p align="center">
 This is the email you have received from the analyst: <br/>
-
 <p align="center">
 <img src="https://i.imgur.com/20IU5Qm.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Template used: <br/>
+<p align="center">
+<img src="https://i.imgur.com/EjmHojf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
