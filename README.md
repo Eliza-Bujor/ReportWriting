@@ -12,5 +12,14 @@ The activity is designed to demonstrate the ability to write pishing reports. Th
 <br />
 
 <h2>Challenge Brief</h2>
-A fellow security analyst began investigating a phishing email but has had to stop and join an incident response team with a potential system compromise, so they have passed over their rough notes to you. Whilst the investigating analyst had almost completed their assessment, they didn’t have time to write up their report and select appropriate defensive measures. Using the analyst’s notes you need to take over their investigation and write a full report detailing the actions that they took in a neat and presentable format, and suggest defensive measures that would best protect the company. The initial analyst has mentioned that you should just keep the case for yourself, and talk as if you have completed the actions instead of referring to him throughout the report. Below you can download the analyst’s rough notes. Use the skills you’ve learned throughout this section of the course to write a report. We have included a basic report template to help you format your report.
+A fellow security analyst began investigating a phishing email but has had to stop and join an incident response team with a potential system compromise, so they have passed over their rough notes to you. Whilst the investigating analyst had almost completed their assessment, they didn’t have time to write up their report and select appropriate defensive measures. Using the analyst’s notes you need to take over their investigation and write a full report detailing the actions that they took in a neat and presentable format, and suggest defensive measures that would best protect the company. The initial analyst has mentioned that you should just keep the case for yourself, and talk as if you have completed the actions instead of referring to him throughout the report. 
+<br />
+
+<h2>Process walk-through:</h2>
+
+<p align="center">
+This is the email you have received from the analyst: <br/>
+
+<p align="center">
+<img src="https://imgur.com/a/DwSe9yd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
