@@ -47,5 +47,5 @@ Challenge Answer: <br/>
   <p align="left">
   - Suggested Defensive Measures <br />
       <p align="center">
-      <img src="" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+      <img src="https://i.imgur.com/lukECQ1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
       <br />
