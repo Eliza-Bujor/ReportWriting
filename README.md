@@ -36,13 +36,15 @@ Challenge Answer: <br/>
       <p align="center">
       <img src="https://i.imgur.com/zvF0kF8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
       <br />
+  <p align="left">
   - Artifact Analysis <br />
-        - VirusTotal scan
+  * VirusTotal scan
       <p align="center">
       <img src="https://i.imgur.com/akIxzTf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
       <br />
         <img src="https://i.imgur.com/89slYdQ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
         <br />
+  <p align="left">
   - Suggested Defensive Measures <br />
       <p align="center">
       <img src="" height="100%" width="100%" alt="Disk Sanitization Steps"/>
