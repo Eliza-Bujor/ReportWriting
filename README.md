@@ -31,9 +31,19 @@ Template used: <br/>
 
 <p align="center">
 Challenge Answer: <br/>
-  - <b>Created a tree topology with two levels and two hosts attached to each switch that have been situated on the second level. </b> <br />
-  - <b>Each host has its own IP address as shown in the image</b> <br />
-  - <b>The diagram has been developed with the help of the Mininet Topology Visualiser provided on the Spear website</b> <br />
-<p align="center">
-<img src="https://i.imgur.com/EjmHojf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
+  <p align="left">
+  - Email Description and Artefacts Collected <br />
+      <p align="center">
+      <img src="https://i.imgur.com/zvF0kF8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+      <br />
+  - Artifact Analysis <br />
+        - VirusTotal scan
+      <p align="center">
+      <img src="https://i.imgur.com/akIxzTf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+      <br />
+        <img src="https://i.imgur.com/89slYdQ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+        <br />
+  - Suggested Defensive Measures <br />
+      <p align="center">
+      <img src="" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+      <br />
