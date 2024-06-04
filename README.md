@@ -5,10 +5,10 @@ The activity is designed to demonstrate the ability to write pishing reports. Th
 <br />
 
 <h2>Objectives</h2>
-- Clear and consice information delivery 
-- Email description and a list of email, web, and file artifacts
-- Analysis of the email and artifacts
-- Suggest defensive measures
+- Clear and consice information delivery <br />
+- Email description and a list of email, web, and file artifacts<br />
+- Analysis of the email and artifacts<br />
+- Suggest defensive measures<br />
 <br />
 
 <h2>Challenge Brief</h2>
